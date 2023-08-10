@@ -29,7 +29,7 @@ Contrast ratio: 10.537
 Contrast difference from origin: 0.1
 ```
 ## Learn more
-If you would like to learn more and try the web version - check out my [blog post on this topic](http://subtractiv.com/blog/2023/contrast-matching-tool/)
+If you would like to learn more and try the web version - check out my [blog post on this topic](http://subtractiv.com/e/2)
 
 ## Contribute
 If you would like to help improve this script, feel free to make a pull request.
