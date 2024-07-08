@@ -14,7 +14,7 @@ Please enter the background color HSL values (0, 0, 0): 208,22,15
 Contrast calculated is: 11.858
 Contrast perceived is:  10.437
 --------------------------------------
-Please enter the new foreground Hue to match (0 - 259): 300
+Please enter the new foreground Hue to match (0 - 359): 300
 --------------------------------------
 Calculated contrast match:
 --------------------------------------
